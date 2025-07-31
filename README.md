@@ -1,7 +1,7 @@
 # 💖 จีบเธอ - เกมขอความรักจากแฟน 💖
 ## 🎮 วิธีเล่น
 
-1. เข้าไปที่ [Game](https://beamthirawat.github.io/game-y-n-main-v2/)
+1. เข้าไปที่ [Game](https://github.com/axiostq/game-y-n/)
 
 4. ถ้าคุณลองกดปุ่ม... เอ่อ ... ลองดูสิว่าจะเกิดอะไรขึ้น! 😉
 
